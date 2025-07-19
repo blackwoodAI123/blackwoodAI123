@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @blackwoodAI123
-- I’m interested in Machine Learning, Artifical Intelligence, Mathematical Programming, Computer Graphics, and Stochastic Processes.
-- Some of my skills include Python, Java, HTML5, CSS3, and C.
+
 
 
 <!---
